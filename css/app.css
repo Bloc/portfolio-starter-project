@@ -1,0 +1,11 @@
+.portfolio-box{
+	margin-bottom:100px;
+}
+
+code{
+	display:block;
+	background-color:rgba(255, 255, 0, 0.48) !important;
+	width:100% !important;
+	border-style:none;
+}
+
